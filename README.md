@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Jogo da Advinhação tem como intuito exercitar o uso de lógica de programação, variáveis, eventose callbacks.
 
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://matheusalm0.github.io/jogo-advinhacao/)
 ---
 
 
